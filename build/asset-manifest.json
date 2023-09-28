@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2c2def3.css",
+    "main.js": "/static/js/main.1a0f9b8c.js",
+    "static/media/bg-sign-in-cover.jpeg": "/static/media/bg-sign-in-cover.e5dabb486682cd2b2bf1.jpeg",
+    "static/media/bg-profile.jpeg": "/static/media/bg-profile.af1219a742e09fc7b612.jpeg",
+    "static/media/bg-sign-up-cover.jpeg": "/static/media/bg-sign-up-cover.30c5950b22e74f0d82ba.jpeg",
+    "static/media/connected.jpg": "/static/media/connected.742738420cae11793242.jpg",
+    "static/media/logo.png": "/static/media/logo.ba929bb12a479888d417.png",
+    "static/media/timeout.svg": "/static/media/timeout.27fa144379e588455d7f185a73af2ee6.svg",
+    "static/media/bruce-mars.jpg": "/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/bad-request.svg": "/static/media/bad-request.b251ccf241f0431681513dc23f79212f.svg",
+    "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/deleted.svg": "/static/media/deleted.e427d662c24d81b55abdcadb26e4ed51.svg",
+    "static/media/actived.svg": "/static/media/actived.ea13d47b0a957640dae35add3f7a2a77.svg",
+    "index.html": "/index.html",
+    "main.e2c2def3.css.map": "/static/css/main.e2c2def3.css.map",
+    "main.1a0f9b8c.js.map": "/static/js/main.1a0f9b8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c2def3.css",
+    "static/js/main.1a0f9b8c.js"
+  ]
+}

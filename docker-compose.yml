@@ -1,0 +1,17 @@
+version: '2'
+services:
+  web:
+    image: nginx
+    volumes:
+      - ./build:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    ports:
+      - "6060:80"
+    environment:
+      - NGINX_PORT=80
+    networks:
+      payuninet:
+        ipv4_address: 192.168.0.2
+networks:
+  payuninet:
+    external: true
