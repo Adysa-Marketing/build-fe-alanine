@@ -10,8 +10,9 @@ services:
     environment:
       - NGINX_PORT=80
     networks:
-      payuninet:
-        ipv4_address: 192.168.0.2
+      adysaskinnet:
+        ipv4_address: 192.168.0.4
+
 networks:
-  payuninet:
+  adysaskinnet:
     external: true
